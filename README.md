@@ -3,7 +3,7 @@
 ### I study Dark Matter Phenomenology and Physics Beyond the Standard Model
 
 ### Current projects: CMS Data Analysis and Quantum Computing
-### Current position: Post-doc Researcher
+### Current position: Post-doc Researcher at BUAP
 
 I am interested in:
 - Dark matter models and their phenomenology, including:
